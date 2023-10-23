@@ -1,6 +1,6 @@
 {
-  "name": "Shuttle Proxy",
-  "description": "A simple web proxy",
+  "name": "Educational Proxy",
+  "description": "A simple web",
   "image": "heroku/nodejs",
   "addons": [],
   "buildpacks": [
